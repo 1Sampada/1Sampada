@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, email me sampadaparate685@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i am a girl
+- ⚡ Fun fact: There's nothing fun in me!
 
 <!---
 1Sampada/1Sampada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
