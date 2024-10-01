@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1Sampada
+- 👋 Hi, I’m @Sam
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning web development, designing
 - 💞️ I’m looking to collaborate on ...
