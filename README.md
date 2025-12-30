@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 Developer | Problem Solver | Project Builder<br><br>I enjoy turning ideas into real, usable products.  <br>From portfolios and business websites to apps and dashboards, I focus on creating solutions that actually solve problems.<br><br>⚡ Skills: Web Development, App Development, UI/UX Basics, Backend Integration  <br>📌 Interested in startups, real-world projects, and hackathons  <br>🤝 Always open to learning and collaborating
+👩‍💻 Developer | Problem Solver | Project Builder<br><br>I enjoy turning ideas into real, usable products.  <br>From portfolios and business websites to apps and dashboards, I focus on creating solutions that actually solve problems.<br><br>⚡ Skills: Web Development, App Development, UI/UX Basics, Backend Integration  <br> 📌 Winner of National Level Smart India Hackathon 2025 <br> 📌 Interested in startups, real-world projects, and hackathons  <br>🤝 Always open to learning and collaborating
 
 
 ## 🌐 Socials:
